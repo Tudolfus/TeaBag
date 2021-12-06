@@ -1,3 +1,9 @@
 /TeaBag/.vs/TeaBag/v17/.suo
 /TeaBag/TeaBag/bin
 /TeaBag/TeaBag/obj
+/TeaBag/TeaBag.Configuration/obj
+/TeaBag/TeaBag.Configuration/bin
+/TeaBag/TeaBag.BL/obj
+/TeaBag/TeaBag.BL/bin
+/TeaBag/TeaBag.Core/obj
+/TeaBag/TeaBag.Core/bin
